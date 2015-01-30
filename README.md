@@ -23,3 +23,7 @@ Pour utiliser le script, allez dans le répertoire où se trouve le fichier à l
 Appuyer sur les touches A,S,P,L simultanément, attendre que la vidéo se lance puis relachez les touches. La vidéo fonctionne !
 
 Pour arrêter le programme, fermer la fênetre Mozilla Firefox et echap dans le Terminal.
+
+##Happy
+
+Désormais, vous avez les mains libres, vous pouvez manger ou fumer devant votre film préféré !
