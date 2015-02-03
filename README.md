@@ -26,4 +26,4 @@ Pour arrêter le programme, fermer la fênetre Mozilla Firefox et echap dans le 
 
 ##Happy
 
-Désormais, vous avez les mains libres, vous pouvez manger ou fumer devant votre film préféré !
+Désormais, vous avez les mains libres, vous pouvez manger, boire ou fumer devant votre film préféré !
